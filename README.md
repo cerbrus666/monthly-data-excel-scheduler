@@ -1,4 +1,5 @@
-# MonthlyData_Excel_Scheduler
+# monthly-data-excel-scheduler
+
 
 This light weight utility will take files sitting in a shared drive, append the data to a file of your choosing and copy the shared file to a repoitory where you can store the shared file for archived reasons.
 
